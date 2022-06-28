@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-Until I come up with something better to put here, here are my GitHub activity stats:
+#### My activity stats
 
 [![gdubicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdubicki&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Top languages
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gdubicki&skills=Python,Go,HCL,Puppet,Ruby,Shell,Groovy,JavaScript&show-other-skills=true"
+/>
 
 <!--
 **gdubicki/gdubicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
