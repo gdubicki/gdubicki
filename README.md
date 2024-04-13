@@ -2,7 +2,7 @@
 
 I am a devops engineer with nearly 20 years of experience of breaking and fixing stuff professionally. 🧔‍♂️
 
-I really enjoy coding in Python and I am learning Rust and but I do not shy away from coding a little in Ruby, Golang and many other languages that I want (or have to...) deal with. 😊
+I really enjoy coding in Python and I am learning Rust but I do not shy away from coding a little in Ruby, Golang and many other languages. 😊
 
 My principle is the "boy scout rule": I try to leave the projects I encounter on my path a tiny bit better than they were before. Sometimes that ends up with a little more than a tiny bit though. 😅
 
