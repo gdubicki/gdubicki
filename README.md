@@ -8,7 +8,9 @@ My principle is the "boy scout rule": I try to leave the projects I encounter on
 
 #### My GitHub stats
 
-[![gdubicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdubicki&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gdubicki&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![stats](https://github-readme-stats.vercel.app/api?username=gdubicki&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### My Stack Exchange
 
