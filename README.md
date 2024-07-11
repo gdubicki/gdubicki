@@ -1,6 +1,8 @@
 ### Hi, I am Greg! 👋
 
-I am a devops engineer with nearly 20 years of experience of breaking and fixing stuff professionally. 🧔‍♂️
+I am a devops engineer with nearly 20 years of experience of ~breaking~ improving and fixing stuff professionally. 🧔‍♂️
+
+I also used to be a software engineer, manager, technician and an old-school sysadmin.
 
 I really enjoy coding in Python and I am learning Rust but I do not shy away from coding a little in Ruby, Golang and many other languages. 😊
 
