@@ -1,6 +1,6 @@
 ### Hi, I am Greg! 👋
 
-I am a devops engineer with nearly 20 years of experience of ~breaking~ improving and fixing stuff professionally. 🧔‍♂️
+I am a devops engineer with nearly 20 years of professional experience of ~breaking~ improving and fixing stuff professionally. 🧔‍♂️
 
 I also used to be a software engineer, manager, technician and an old-school sysadmin.
 
