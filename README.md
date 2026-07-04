@@ -1,12 +1,12 @@
-### Hi, I am Greg! 👋
+### Hi, I'm Greg! 👋
 
-I am a devops engineer with over 20 years of experience of ~breaking~ creating, improving and fixing stuff professionally. 🧔‍♂️
+I'm a DevOps engineer with over 20 years of experience in ~breaking~ creating, improving and fixing stuff professionally. 🧔‍♂️
 
-I also used to be a software engineer, manager, technician and an old-school sysadmin.
+I've also been a software engineer, manager, technician, and an old-school sysadmin.
 
-I really enjoy coding in Python and I am learning Rust but I do not shy away from coding a little in Ruby, Golang and many other languages. 😊
+I really enjoy coding in Python, used to like Puppet, but nowadays, with the help from LLMs, I write in everything. 🤷‍♂️😎
 
-My principle is the "boy scout rule": I try to leave the projects I encounter on my path a tiny bit better than they were before. Sometimes that ends up with a little more than a tiny bit though. 😅
+My guiding principle is the "boy scout rule": I try to leave the projects I encounter on my path a tiny bit better than they were before. Sometimes it ends up being a little more than a tiny bit, though. 😅
 
 #### My GitHub stats
 
