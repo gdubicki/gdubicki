@@ -10,7 +10,7 @@ My guiding principle is the "boy scout rule": I try to leave the projects I enco
 
 #### My GitHub stats
 
-[![gdubicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdubicki&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![gdubicki's GitHub stats](https://github-stats-extended.vercel.app/api?username=gdubicki&show_icons=true&hide_title=true)](https://github.com/stats-organization/github-stats-extended)
 
 #### My Stack Exchange
 
